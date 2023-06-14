@@ -1,6 +1,6 @@
 # Game 2048
 
-- [2048] - 
+- [2048] - https://nedobezhkinoleksandr.github.io/2048/;
 
 - Project related to world famous game 2048, you will see gameboard 4 x 4 size, score counter and 1 button (start/restart);
 
